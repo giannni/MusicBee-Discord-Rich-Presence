@@ -1,0 +1,2 @@
+# MusicBee Discord Rich Presence
+ 
